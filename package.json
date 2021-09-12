@@ -1,0 +1,22 @@
+{
+  "name": "expressex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abeer-Eva/expressex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abeer-Eva/expressex/issues"
+  },
+  "homepage": "https://github.com/Abeer-Eva/expressex#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
